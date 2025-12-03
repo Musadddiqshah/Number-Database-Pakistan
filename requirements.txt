@@ -1,0 +1,10 @@
+requests
+colorama
+pyfiglet
+tabulate
+progress
+python-dotenv
+pytest
+black
+flake8
+windows-curses
