@@ -11,3 +11,20 @@ in Termux....
 pkg install git python python3 -y
 
 git clone https://github.com/Musadddiqshah/Number-Database-Pakistan.git
+
+
+cd Number-Database-Pakistan
+
+chmod +x install.sh
+
+./install.sh
+
+then Use 
+
+easy
+
+sim  
+
+or
+
+python sim.py
